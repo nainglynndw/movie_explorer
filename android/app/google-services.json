@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "900939748701",
+    "project_id": "mhpa-mandalay",
+    "storage_bucket": "mhpa-mandalay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900939748701:android:13d497b771315c73b9c4b4",
+        "android_client_info": {
+          "package_name": "com.movie.explorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900939748701-oqngk1jp3o45ehc62f54fd910kd9bhvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpgwBGByAVZ0mi2TxqC7-xVmLk-xNszQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900939748701-oqngk1jp3o45ehc62f54fd910kd9bhvi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900939748701-t5jki6mpkobnsvkv98qd23m5pl0dfl63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.movie.explorer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

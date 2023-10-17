@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>900939748701-t5jki6mpkobnsvkv98qd23m5pl0dfl63.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.900939748701-t5jki6mpkobnsvkv98qd23m5pl0dfl63</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>900939748701-a64712030gsj7iagloq0u619kglapunr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsaznojqcbbpQno5YTx7L8axaKh9EBxko</string>
+	<key>GCM_SENDER_ID</key>
+	<string>900939748701</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.movie.explorer</string>
+	<key>PROJECT_ID</key>
+	<string>mhpa-mandalay</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mhpa-mandalay.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:900939748701:ios:b3523a5a5131489ab9c4b4</string>
+</dict>
+</plist>
